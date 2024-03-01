@@ -19,7 +19,5 @@ Key Features:
 4. Contact Information: Make it easy for visitors to get in touch with you by providing your contact information, such as email address or social media profiles. Incorporate a contact form or a direct messaging option for convenience.
 
 
-5. Responsive Design: Ensure your profile website is responsive and mobile-friendly, adapting seamlessly to different screen sizes and devices. This guarantees an optimal viewing experience for visitors across various platforms.
-
 
 By utilizing HTML and CSS, I have created a simple yet effective profile website that captures the essence of your professional profile. Its clean design and user-friendly layout enable visitors to quickly grasp your skills, experience, and achievements. Showcase your professional brand with confidence and leave a lasting impression. 
